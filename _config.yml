@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RestaurantTechGuide
+title: Gifable - Gif Screen Recorder
 email: ""
 description: >-
-  Finding the latest technology trends in the restaurant industry. Tips, tricks,
-  recommendations and guides to using technology to make your restaurant excel.
+  Record your mac screen as a gif with Gifable the Gif Screen Recorder
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: RestaurantTechGuide
+twitter_username:
 github_username: jonathanwilson1
 
 # Build settings
